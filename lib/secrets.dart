@@ -1,1 +1,2 @@
-const openAPIKey='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';
+const openAPIKey='';
+//use your own api key
